@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+* {
+  margin: o;
+  padding: 0;
+  box-sizing: border-box 0;
+  font-family: "Anton", sans-serif;
+}
+
+.menu {
+  list-style-type: none;
+  font-weight: 500;
+  font-size: 26px;
+  background-color: aqua;
+}
+.menu li {
+  display: inline;
+  margin-right: 120px;
+
+}
+
+.menu a li {
+  color: black;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+.menu a :hover{
+    text-decoration: underline;
+}
+
+.caja {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  
+}
+
+
+.entrena2 {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.art{
+    display: inline-block;
+    margin-inline: 70px;
+}
+
+
+
+
+.quienes {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+.texto {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+
+.preguntas {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.textopreguntas {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+
+.planes {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.plan{
+  display: inline-block;
+  margin-inline: 70px;
+  margin-bottom: 100px;
+}
+
+.contacto {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.formulario {
+  margin-bottom: 200px;
+
+}
+
+
